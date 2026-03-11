@@ -1,0 +1,15 @@
+site_name: Mynotes
+site_author: ChaoqunChang
+
+theme:
+  name: material
+  language: zh # 设置为中文
+  palette:     # 设置日间/夜间模式切换
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 切换至夜间模式
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换至日间模式
